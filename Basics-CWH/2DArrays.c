@@ -1,0 +1,13 @@
+#include<stdio.h>
+//we can define 2d array as a[m][n] or a[][n] but not a[][]
+int main(int argc, char const *argv[])
+{
+    int a[2][3]={1,2,3,4,5,6};
+    int i,j;
+    for(i=0;i<2;i++){
+        for(j=0;j<3;j++){printf("%d ",a[i][j]);
+        }
+        printf("\n");
+    }
+    return 0;
+}
