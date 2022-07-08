@@ -1,2 +1,2 @@
 # PDS-Archive
-Archive of C projects made during Programming and Data Structures course of my first semester
+An archive of C files made during Programming and Data Structures (Theory and Lab) courses of my first semester
